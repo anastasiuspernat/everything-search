@@ -1,6 +1,12 @@
 # Everything Search
 
-Search files & folders on multiple Windows Everything ETP/FTP servers from Raycast. Use *evy* command followed by the mask. Configure the servers in the extension settings using the following format:
+Search files & folders on multiple Windows Everything ETP/FTP servers from Raycast. 
+
+1. Enable Tools > Options > ETP/FTP Server in Everything on your Windows computers.
+2. Configure the servers in the extension settings (see below).
+3. Use *evy* command followed by the mask. 
+
+Configure the servers in the extension settings using the following format:
 
 ```json
 [
